@@ -1,15 +1,9 @@
-### Hello there 👋
-
----
-
 ## 🧬 Digital Profile
 
 ```yaml
 username: Randil-Hasanga
 role: Software Engineer
 focus: Node.js, React.js, Flutter, NestJS, MySQL, MongoDB
-portfolio: https://randilhasanga.live
-location: Matara, Sri Lanka
 ```
 
 ---
