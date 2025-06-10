@@ -2,7 +2,7 @@
 
 ```yaml
 username: Randil-Hasanga
-role: Software Engineer
+role: Full-Stack Developer
 focus: Node.js, React.js, Flutter, NestJS, MySQL, MongoDB
 ```
 
